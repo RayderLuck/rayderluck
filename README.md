@@ -4,9 +4,9 @@ Self-taught Developer from Cabo Frio, Brazil — 10+ years building with code.
 **Focus:** Logic, Vanilla JS & Python | Game Engine Architecture | Prototyping
 
 #### 🚀 Main Projects (playable)
-- **[Retro Shooter Arcade](https://rayderluck.github.io/retro-shooter-arcade/)** - 8-bit shooter with custom engine (Object Pooling, Joystick Virtual, Touch API)
+- **[Retro Shooter Arcade](https://rayderluck.github.io/retro-shooter/)** - 8-bit shooter with custom engine (Object Pooling, Joystick Virtual, Touch API)
 - **[Alerta Transporte](https://rayderluck.github.io/alerta-transporte/)** - Prototype for real-time bus alerts in Região dos Lagos
-- **[Mega da Virada Analyzer](https://rayderluck.github.io/mega-da-virada-analyzer/)** - Combinatorics engine using BigInt (no overflow)
+- **[Mega da Virada Analyzer](https://rayderluck.github.io/megadavirada/)** - Combinatorics engine using BigInt (no overflow)
 
 #### 🛠️ Stack
 **Core:** JavaScript (ES6+ / BigInt) | HTML5 Canvas API | CSS3 | Python
